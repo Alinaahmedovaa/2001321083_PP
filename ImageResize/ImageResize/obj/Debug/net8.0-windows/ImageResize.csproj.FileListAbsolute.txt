@@ -1,0 +1,16 @@
+C:\Users\MSI\Desktop\ImageResize\ImageResize\bin\Debug\net8.0-windows\ImageResize.exe
+C:\Users\MSI\Desktop\ImageResize\ImageResize\bin\Debug\net8.0-windows\ImageResize.deps.json
+C:\Users\MSI\Desktop\ImageResize\ImageResize\bin\Debug\net8.0-windows\ImageResize.runtimeconfig.json
+C:\Users\MSI\Desktop\ImageResize\ImageResize\bin\Debug\net8.0-windows\ImageResize.dll
+C:\Users\MSI\Desktop\ImageResize\ImageResize\bin\Debug\net8.0-windows\ImageResize.pdb
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.Form1.resources
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.AssemblyInfo.cs
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.dll
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\refint\ImageResize.dll
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.pdb
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ImageResize.genruntimeconfig.cache
+C:\Users\MSI\Desktop\ImageResize\ImageResize\obj\Debug\net8.0-windows\ref\ImageResize.dll

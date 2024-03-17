@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResize", "ImageResize\ImageResize.csproj", "{5F780AFF-4233-4008-BC39-37276D733BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F780AFF-4233-4008-BC39-37276D733BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F780AFF-4233-4008-BC39-37276D733BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F780AFF-4233-4008-BC39-37276D733BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F780AFF-4233-4008-BC39-37276D733BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4D4184-D090-4156-A049-A8C8E4D89297}
+	EndGlobalSection
+EndGlobal
